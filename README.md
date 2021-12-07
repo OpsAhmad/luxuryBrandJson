@@ -1,2 +1,2 @@
 # luxuryBrandJson
-# All luxury brand in json
+## All luxury fashion brand in json
